@@ -1,5 +1,5 @@
 {
-	AVAILABLE_TEST_SERVERS_URL : [
+	"AVAILABLE_TEST_SERVERS_URL" : [
 		"http://34.68.182.220/hook/re-router/servers/",
 		"http://104.198.205.86/hook/re-router/servers/",
 		"http://hook.a2bhq.com/hook/api/re-router/servers/",
