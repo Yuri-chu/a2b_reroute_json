@@ -1,9 +1,31 @@
 {
-	"AVAILABLE_TEST_SERVERS_URL" : [
-		"http://34.68.182.220/hook/re-router/servers/",
-		"http://104.198.205.86/hook/re-router/servers/",
-		"http://hook.a2bhq.com/hook/api/re-router/servers/",
-		"http://35.193.138.155/hook/re-router/servers/test.php",
-		"http://hook.a2bhq.com/hook/api/re-router/servers/test.php",
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
