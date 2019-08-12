@@ -6,7 +6,7 @@
     {
 		"name" : 'Live Server',
 		"url" : 'http://34.68.182.220',
-		"postUrl" : 'http://35.193.138.155/hook/re-router/'
+		"postUrl" : 'http://34.68.182.220/hook/re-router/'
     },
     {
 		"name" : 'BackUp/Test Server',
