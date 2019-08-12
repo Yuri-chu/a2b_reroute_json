@@ -1,16 +1,16 @@
 [
-	[
-		"name" => 'Podio API',
-		"url" => 'https://podio.com'
-	],
-	[
-		"name" => 'Live Server',
-		"url" => 'http://34.68.182.220',
-		"postUrl" => 'http://35.193.138.155/hook/re-router/'
-	],
-	[
-		"name" => 'BackUp/Test Server',
-		"url" => 'http://a12e995f.ngrok.io',
-		"postUrl" => 'http://hook.a2bhq.com/hook/api/re-router/upgraded_extension/'
-	]
+    {
+		"name" : 'Podio API',
+		"url" : 'https://podio.com'
+    },
+    {
+		"name" : 'Live Server',
+		"url" : 'http://34.68.182.220',
+		"postUrl" : 'http://35.193.138.155/hook/re-router/'
+    },
+    {
+		"name" : 'BackUp/Test Server',
+		"url" : 'http://a12e995f.ngrok.io',
+		"postUrl" : 'http://hook.a2bhq.com/hook/api/re-router/upgraded_extension/'
+    }
 ]
