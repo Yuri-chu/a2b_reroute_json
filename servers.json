@@ -10,7 +10,7 @@
     },
     {
 		"name" : 'BackUp/Test Server',
-		"url" : 'http://a12e995f.ngrok.io',
-		"postUrl" : 'http://hook.a2bhq.com/hook/api/re-router/upgraded_extension/'
+		"url" : 'http://104.198.205.86',
+		"postUrl" : 'http://104.198.205.86/hook/re-router/'
     }
 ]
