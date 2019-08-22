@@ -5,11 +5,16 @@
     },
     {
 		"name" : 'Live Server',
-		"url" : 'http://34.68.182.220',
-		"postUrl" : 'http://34.68.182.220/hook/re-router/'
+		"url" : 'http://108.61.217.20',
+		"postUrl" : 'http://108.61.217.20/hook/re-router/'
     },
     {
-		"name" : 'BackUp/Test Server',
+		"name" : 'Back-Up 01',
+		"url" : 'http://68.183.145.228',
+		"postUrl" : 'http://68.183.145.228/hook/re-router/'
+    },
+    {
+		"name" : 'Back-Up 02/Test Server',
 		"url" : 'http://34.68.182.220',
 		"postUrl" : 'http://34.68.182.220/hook/re-router/'
     }
