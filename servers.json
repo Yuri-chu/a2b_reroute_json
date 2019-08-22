@@ -10,7 +10,7 @@
     },
     {
 		"name" : 'BackUp/Test Server',
-		"url" : 'http://104.198.205.86',
-		"postUrl" : 'http://104.198.205.86/hook/re-router/'
+		"url" : 'http://34.68.182.220',
+		"postUrl" : 'http://34.68.182.220/hook/re-router/'
     }
 ]
