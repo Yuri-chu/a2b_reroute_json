@@ -9,6 +9,11 @@
 		"postUrl" : 'http://108.61.217.20/hook/re-router/'
     },
     {
+		"name" : 'A2B Main Server',
+		"url" : 'http://35.236.18.230',
+		"postUrl" : 'http://35.236.18.230/hook/re-router/'
+    },
+    {
 		"name" : 'Back-Up 01',
 		"url" : 'http://68.183.145.228',
 		"postUrl" : 'http://68.183.145.228/hook/re-router/'
